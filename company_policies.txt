@@ -1,0 +1,25 @@
+COMPANY EMPLOYEE HANDBOOK AND POLICIES
+Version: 1.0
+Last Updated: January 2026
+
+1. WORKING HOURS AND ATTENDANCE POLICY
+1.1 Standard Hours: The standard workweek is 40 hours, Monday through Friday, from 9:00 AM to 6:00 PM local time.
+1.2 Core Hours: To facilitate collaboration, all employees must be online and available for meetings during the "core hours" of 10:30 AM to 3:30 PM.
+1.3 Lateness: If you anticipate being more than 30 minutes late, you must notify your direct manager via Slack before 9:00 AM.
+1.4 Attendance Tracking: All employees must log their daily attendance using the Zipzy HR Portal. Failure to log attendance for three consecutive days will result in a formal warning.
+
+2. LEAVE AND TIME-OFF POLICY
+2.1 Annual Paid Time Off (PTO): Full-time employees are entitled to 20 days of paid annual leave per calendar year. Up to 5 days of unused annual leave can be carried over to the next year.
+2.2 Sick Leave: Employees receive 10 days of paid sick leave annually. A doctor's note is required for sick leave extending beyond 3 consecutive days.
+2.3 Casual Leave: Employees are granted 5 days of casual leave for personal emergencies. Casual leave cannot be combined with Annual PTO.
+2.4 Public Holidays: The company observes 12 mandatory public holidays. A list of these holidays is published by HR in December for the upcoming year.
+
+3. REMOTE WORK AND HYBRID POLICY
+3.1 Eligibility: After completing the 90-day probationary period, employees are eligible for the hybrid work model.
+3.2 Hybrid Schedule: Eligible employees may work remotely up to 3 days per week. Tuesdays and Thursdays are mandatory in-office days for all local staff.
+3.3 Equipment Allowance: Remote workers are provided a one-time stipend of $500 to set up their home office.
+
+4. IT AND DATA SECURITY POLICY
+4.1 Passwords: Passwords must be at least 14 characters long and changed every 90 days.
+4.2 Device Usage: Personal devices must not be used to access company source code or customer databases without installing the approved Mobile Device Management (MDM) software.
+4.3 Data Breach: Any suspected data breach or lost company device must be reported to the IT Helpdesk within 2 hours of discovery.
