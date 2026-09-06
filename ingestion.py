@@ -8,7 +8,7 @@ def ingest_document(source_path: str, source_type: str = "url", db_path: str = "
     
     """Loads, splits, and embeds a document into Chroma DB."""
 
-    api_key = "sk-proj-FAKE-test-key-not-real-12345"
+    
     try:
         if source_type == "url":
             loader = WebBaseLoader(source_path)
