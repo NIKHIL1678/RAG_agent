@@ -5,6 +5,8 @@ from langchain_community.vectorstores import Chroma
 import os
 
 def ingest_document(source_path: str, source_type: str = "url", db_path: str = "./chroma_db"):
+
+    print("Ingestion pipeline started")
     
     """Loads, splits, and embeds a document into Chroma DB."""
 
